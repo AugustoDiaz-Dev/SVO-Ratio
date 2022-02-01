@@ -1,0 +1,121 @@
+✅ Upload the result of the task to GitHub and send the link to the repository to the Google form: [https://forms.gle/wb77T3ZydENn9bx2A](https://forms.gle/wb77T3ZydENn9bx2A) — then unsubscribe in the chat “`Submitted the task of the first module` ”
+
+1. Create a public repository at [github.com](http://github.com)
+2. The name of the repository - in free form.
+3. Create a folder `module1` - in it you will conduct all development.
+4. Read the Terms of Reference carefully
+
+## Landing-page development
+
+Design - [https://www.figma.com/file/VsA7lowyHmr0WUZAQ9X3n8/Ratio-courses?node-id=0%3A1](https://www.figma.com/file/VsA7lowyHmr0WUZAQ9X3n8/Ratio-courses?node- id=0%3A1)
+
+Designed page must be responsive to a minimum size of 320px (Iphone SE)
+
+The layout should be rubber.
+
+The menu serves as page navigation.
+
+Animations are welcome.
+
+The `Learn More` button on the first screen - takes the user to a screen with the heading Features.
+
+Favicon - is the site's logo
+
+The slider is static, in the next modules we will make it interactive.
+
+SEO
+
+- Title - `Warehouse - Save your data storage here.`
+- Description - `Data Warehouse is a data storage area that has been
+tested for security, so you can store your data here
+safely but not be afraid of being stolen by others.`
+- Keyword - `warehouse, save, data, security, storage, area`
+- OpenGraph - at the choice of the developer.
+
+Technical requirements
+
+- We use the Ubuntu font.
+- PixelPerfect - not required.
+- We use only HTML + CSS, no need to use assemblers, or something else. A simple layout is enough.
+- We do not use preprocessors.
+- The page must be responsive and responsive
+
+###FAQ
+
+- What does it mean from the technical specification "Learn More button on the first screen - takes the user to the second screen."
+    
+    A link to the second screen must be present, use hyperlinks inside the document for this
+    
+- From TK "The menu serves as navigation on the page." There is no help section in the layout, but there is in the navigation. Maybe this means the footer with contacts?
+    
+    Yes, this is a link to the footer
+    
+- I didn't find the favicon, can I use the logo?
+    
+    Just in the TK, that favicon is the logo of the site
+    
+- Responsive for the mobile version of the site. There are no layouts, so do it according to your taste? For example: padding, font size?
+    
+    That's right, adaptive in free form.
+
+    ✅ Загрузите результат задания на GitHub и пришлите ссылку на репозиторий в гугл форму: [https://forms.gle/wb77T3ZydENn9bx2A](https://forms.gle/wb77T3ZydENn9bx2A) — после этого отпишитесь в чат “`Отправил задание первого модуля`”
+
+</aside>
+
+1. Создайте публичный репозиторий на [github.com](http://github.com)
+2. Название репозитория - в свободной форме.
+3. Создайте папку `module1` - в ней вы будете вести всю разработку.
+4. Внимательно прочтите Техническое задание
+
+## Разработка landing-page
+
+Дизайн - [https://www.figma.com/file/VsA7lowyHmr0WUZAQ9X3n8/Ratio-courses?node-id=0%3A1](https://www.figma.com/file/VsA7lowyHmr0WUZAQ9X3n8/Ratio-courses?node-id=0%3A1)
+
+Свёрстанная страница должна быть адаптивна под минимальный размер 320px (Iphone SE)
+
+Верстка должна быть резиновой.
+
+Меню служит навигацией по странице.
+
+Анимации приветствуются.
+
+Кнопка `Learn More` на первом экране - переносит пользователя на экран с заголовком Features.
+
+Favicon - является логотип сайта
+
+Слайдер статичный, в следующих модулях мы будем его делать интерактивным. 
+
+SEO 
+
+- Title - `Warehouse - Save your data storage here.`
+- Description - `Data Warehouse is a data storage area that has been
+tested for security, so you can store your data here
+safely but not be afraid of being stolen by others.`
+- Keyword - `warehouse, save, data, security, storage, area`
+- OpenGraph - на выбор разработчика.
+
+Технические требования
+
+- Используем шрифт Ubuntu.
+- PixelPerfect - не требуется.
+- Используем только HTML + CSS, не надо использовать сборщики, или еще что-то. Достаточно просто верстки.
+- Не используем предпроцессоры.
+- Страница должна быть адаптивной и отзывчивой
+
+### FAQ
+
+- Что значит из тз «Кнопка Learn More на первом экране - переносит пользователя на второй экран.»
+    
+    Ссылка на второй экран должна присутствовать, используйте для этого гипер ссылки внутрь документа
+    
+- Из тз «Меню служит навигацией по странице». В макете нет секции help а в навигации есть. Может это имеется ввиду футер с контактами?
+    
+    Да, Это ссылка на футер
+    
+- Фавиконку не нашёл, можно использовать лого?
+    
+    Как раз в ТЗ, что favicon и есть логотип сайта
+    
+- Адаптив для мобильной версии сайта. Макетов нет, соответственно на свой вкус делать? Например: отступы, размер шрифта?
+    
+    Все верно, адаптив в свободной форме.
